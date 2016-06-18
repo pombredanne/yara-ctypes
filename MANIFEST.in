@@ -1,5 +1,5 @@
 include *.rst
-include distribute_setup.py
+include LICENSE
 recursive-include tests *.py
 recursive-include tests *.yar
 recursive-include yara/rules *.yar
